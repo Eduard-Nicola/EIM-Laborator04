@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ContactsManager</string>
+    <string name="phone_error">No phone number specified!</string>
+</resources>
